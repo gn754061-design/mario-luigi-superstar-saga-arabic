@@ -1,0 +1,11 @@
+﻿__pycache__/
+*.pyc
+*.log
+*.tmp
+*.bak
+*.gba
+*.iso
+*.sav
+.env
+kilo.json
+work/
